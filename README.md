@@ -5,7 +5,7 @@
 # TermProjectChandiniRajendra
 
 📌 **Project Summary**
-This project explores Airbnb listings in European cities to predict rental prices using machine learning models. It identifies which features most affect price and provides insights for hosts and platforms.
+This project explores Airbnb listings in European cities to predict rental prices using machine learning models. It identifies which features most affect price and provides insights for hosts and platforms. For the analysis, we used a **subset of the dataset focused on London listings**, specifically from the `london_weekdays.csv` file, to ensure a more targeted and consistent data sample.
 
 🎯 **Objectives**
 - Perform data cleaning and EDA on the Airbnb dataset.
